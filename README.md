@@ -1,1 +1,2 @@
-# QE-PE-MTEval
+# Quality Estimation and Post-Editing Using LLMs For Indic Languages: How Good Is It?
+This repository explores the use of Large Language Models (LLMs) like GPT-4 and Gemma-2 for machine translation evaluation, focusing on quality estimation (QE) and post-editing (PE) tasks in low-resource Indic languages. It includes fine-tuning setups, synthetic data generation, and performance benchmarks for both reference-based and reference-free scenarios. 
