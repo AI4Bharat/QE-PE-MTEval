@@ -6,8 +6,10 @@ This repository explores the use of Large Language Models (LLMs) like GPT-4 and 
 
 ## Synthetic Data Generation
 We generate synthetic error explanations and post-edits using GPT-4, prompted with expert-annotated in-context examples. Our 3-shot prompting strategy significantly improves generation quality over zero-shot methods, enabling the fine-tuning of open-source LLMs for both reference-based and reference-free machine translation evaluation.  
-The overall generation pipeline is illustrated in the figure below.
+The overall generation pipeline is illustrated in the figure below. You can find the generated training pairs [here](Synthetic%20Data/).
 
 <p align="center">
   <img src="images/gpt.jpg" alt="Pipeline for Synthetic Explanation and Post-Editing Generation" width="600"/>
 </p>
+
+## Models
